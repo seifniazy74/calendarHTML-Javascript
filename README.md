@@ -1,4 +1,4 @@
-# Calendar with Pure JavaScript and HTML
+# Calendar with Pure JavaScript and HTMl
 
 The program uses `Date()` function to build a simple calendar with Pure JavaScript and HTML. 
 Here's the final implementation of it - http://iamnitinpatel.com/projects/calendar
